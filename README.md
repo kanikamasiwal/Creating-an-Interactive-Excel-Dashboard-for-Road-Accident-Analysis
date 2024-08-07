@@ -55,6 +55,7 @@ Represent primary KPIs using donut charts for a clear visualization of casualty 
 ## Designing the Dashboard
 
 ### Step-by-Step Creation
+
 **1. Setting Up the Excel Sheet:** Start with a blank workbook and import the cleaned dataset.
 **2. Creating Pivot Tables:** Use Pivot Tables to summarize and analyze key metrics.
 **3. Building Charts:** Employ various chart types, including bar and donut charts, for effective data visualization.
@@ -67,7 +68,7 @@ Include secondary KPIs for deeper insights, such as:
 - Average response time of emergency services
 - Number of accidents by time of day
 - Locations with the highest accident rates
-- 
+  
 ## Data Visualization Techniques
 Use these techniques for effective chart design:
 
