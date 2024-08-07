@@ -32,9 +32,9 @@ Before creating the dashboard, it's important to understand the dataset's metada
 ### Data Cleaning Process
 Preparing the data involves:
 
-**1 Removing Duplicates:** Ensuring unique records.
-**2 Handling Missing Values:** Filling in or removing incomplete entries.
-**3 Standardizing Formats:** Consistent date formats, numerical values, and categorical data.
+**1. Removing Duplicates:** Ensuring unique records.
+**2. Handling Missing Values:** Filling in or removing incomplete entries.
+**3. Standardizing Formats:** Consistent date formats, numerical values, and categorical data.
 
 ## Data Processing and Analysis
 
